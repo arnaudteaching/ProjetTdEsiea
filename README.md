@@ -14,6 +14,7 @@ Elle affiche une liste de gapchapon et reprend api de la première partie.
 On peut mettre en favoris les gapchapons qui nous interessent et en ajouter sur le site.
 L'application utilise fireBase et sa base de donnée a temps reel.
 Le design est personallisé pour qu'il corresponde à l'univers pokemon.
+Attention : Pour voir la partie2 vous devez télécharger le lien donné dans le dossier "Partie2".
 
 
 
