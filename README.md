@@ -1,7 +1,7 @@
 # ProjetTdEsiea
 Ce project est fait par un débutant et comprend deux parties.
 La première partie est finis et la seconde a quelque bug.
-La première partie est tirée des td de Vincent Etienne durant l'année scolaire et la seconde d'internet mais principalement d'un tuto android par le youtuber Graven.
+La première partie est tirée des td de Vincent Etienne durant l'année scolaire et la seconde d'internet mais principalement d'un tuto android venant de Graven un youtuber.
 # Project partie1
 Il affiche une liste d'item venant du jeu pokemon ainsi que leur nom.
 L'application utilise l'Api Rest PokeApi.
