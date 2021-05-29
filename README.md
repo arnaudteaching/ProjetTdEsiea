@@ -11,7 +11,7 @@ Elle comprend l'architecture Singleton et MVVM.
 # Project partie2
 La seconde partie a quelques erreurs  dans les deux derniers onglets(Ajouter et Vue) que je n'ai pas réussi à regler.
 Elle affiche une liste de gapchapon et reprend api de la première partie.
-On peut mettre en favoris les gapchapon qui nous interesses et en ajouter sur le site.
+On peut mettre en favoris les gapchapons qui nous interessent et en ajouter sur le site.
 L'application utilise fireBase et sa base de donnée a temps reel.
 Le design est personallisé pour qu'il corresponde à l'univers pokemon.
 
