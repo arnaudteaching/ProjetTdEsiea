@@ -19,11 +19,11 @@ ATTENTION!!! : Pour voir la partie2 vous devez télécharger le lien donné dans
 
 
 
-# Image Premier Project
+# Image Project Partie 1
 ![](Image./project1.1.jpg)
 ![](Image./project1.2.jpg)
 
-# Image Second Project 
+# Image Project Partie 2 
 ![](Image./project2.1.jpg)
 ![](Image./project2.2.jpg)
 ![](Image./project2.3.jpg)
