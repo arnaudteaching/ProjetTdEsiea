@@ -6,3 +6,6 @@ L'application utilise l'Api Rest PokeApi.
 Elle affiche la liste avec un recyclerview et les données sont stoquées via le cache http.
 Elle comprend l'architecture Singleton et MVVM.
 
+//Image
+![](image./project1.1)
+
